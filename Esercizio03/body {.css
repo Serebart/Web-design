@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0; /* Colore di sfondo diverso dal bianco */
+    font-family: Arial, sans-serif; /* Font di default */
+}
+
+header {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px; /* Dimensione del titolo */
+    margin-top: 10px; /* Margine superiore */
+}
+
+p {
+    text-align: justify; /* Testo giustificato */
+    line-height: 1.5; /* Interlinea */
+    font-size: 13px; /* Dimensione del testo minore di 16px */
+}
